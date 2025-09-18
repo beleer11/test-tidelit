@@ -199,7 +199,7 @@ Para manejar cientos de miles de libros y usuarios:
 - Considerar CQRS y colas para operaciones pesadas de agregación.
 
 **Branch evaluado:** `main`  
-**Commit final:** `abcdef123456`
+**Commit final:** `62b3e52`
 
 ## Autor
 
